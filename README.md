@@ -43,7 +43,7 @@
 ![2c](https://user-images.githubusercontent.com/72655301/162618523-b0e1fb86-4e9b-4589-8eb6-b5056310c182.png)
 ![image](https://user-images.githubusercontent.com/72655301/162620791-5b6d46c5-0438-43fb-a5e5-95b583f9c543.png)
 
-
+  ```ini code```
 
 ## 3.
 ### a. Memasukkan variabel lambda = 4.5 dan x = 6 ke dalam fungsi ppois untuk menghasilkan nilai peluang yang diinginkan
